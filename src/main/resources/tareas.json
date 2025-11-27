@@ -1,0 +1,22 @@
+[
+  {
+    "titulo": "Un diseño atractivo",
+    "descripcion": "Maquetare la interfaz de usuario",
+    "estado": "EN_PROGRESO",
+    "prioridad": "ALTA",
+    "proyecto": {
+      "id": 1
+    },
+    "activo": true
+  },
+   {
+    "titulo": "Crear la entidad Usuario",
+    "descripcion": "Definir la clase Usuario con sus atributos y métodos",
+    "estado": "PENDIENTE",
+    "prioridad": "ALTA",
+    "proyecto": {
+        "id":2
+    },
+    "activo":true
+  }
+]

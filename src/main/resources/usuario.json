@@ -1,0 +1,15 @@
+[
+    {
+        "nombre":"Leonardo",
+        "email":"Leonardo.jimenezlayme@gmail.com",
+        "rol":"usuario",
+        "activo":true
+    },
+    {
+        "nombre":"Favio",
+        "email":"Leonardo.faviolayme@gmail.com",
+        "rol":"usuario",
+        "activo":true
+}
+
+]

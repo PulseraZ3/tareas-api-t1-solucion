@@ -1,0 +1,22 @@
+[
+ {
+    "nombre": "TodoApp",
+    "descripcion": "Pagina de notas",
+    "fechaInicio": "2025-01-10",
+    "fechaFin": "2025-03-15",
+    "usuario":{
+        "id":1
+    } ,
+    "activo:":true
+  },
+  {
+    "nombre": "Crud con Spring",
+    "descripcion": "Aplicacion de gestion de usuarios",
+    "fechaInicio": "2025-04-01",
+    "fechaFin": "2025-06-30",
+    "usuario":{
+        "id":2
+    },
+    "activo":true
+  }
+]
